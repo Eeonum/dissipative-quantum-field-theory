@@ -16,5 +16,5 @@ for nu in range(1, 5):
 
 print(f(b))
 
-ket_n_nu = Ket(n_nu)
+ket_n_nu = Ket(n_nu)  # Eqn (1.1)
 print(ket_n_nu)
